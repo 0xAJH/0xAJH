@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Adam.
+## About Me
+
+Hi there 👋, I'm Adam - An aspiring practitioner of data driven science and engineering seeking.
 
 <!--
 **0xAJH/0xAJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
