@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Adam, an aspiring practitioner of data driven science and engineering.
 
-I'm currently in the final year of my Master of Data Science degree and am seeking to expand my skill-set in order to solve meaningful problems faced by organisations and society.
+🇦🇺
 
 <!--
 **0xAJH/0xAJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
